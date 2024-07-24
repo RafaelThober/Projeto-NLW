@@ -33,4 +33,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Nesse projeto iremos desenvolver uma versão simplificada de um sistema de roteiro de viagem!
+Nesse projeto será desenvolvido uma versão simplificada de um sistema de roteiro de viagem!
